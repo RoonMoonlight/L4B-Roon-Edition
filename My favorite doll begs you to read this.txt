@@ -1,0 +1,20 @@
+# Welcome to jokingly styled readme.txt #
+#=-------------------------------------=#
+
+If you are reading this then you wanted to install this little script which I use. Right?
+
+Please do note that this is made for myself and not really intended to be used with everyone.
+If you wish to modify for yourself feel free to do so.
+
+Additional note: You need to install Left 4 Bots and Left 4 Libs first before installing.
+Links to the both mod can be found here:
+Left 4 Bots - https://steamcommunity.com/sharedfiles/filedetails/?id=2279814689
+Left 4 Lib - https://steamcommunity.com/workshop/filedetails/?id=2634208272
+
+To install, copy the ems folder to 'C:\Steam\steamapps\common\Left 4 Dead 2\left4dead2'. Overwrite if asked.
+Note: If you are installing on Linux put the directory on '~/.steam/Steam/steamapps/common/Left 4 Dead 2/left4dead2'.
+
+Warning: If you are using your own custom configuration for Left 4 Bots, please back up your Left 4 Bots configuration file before doing so.
+Roon is lazy and I am not responsible for ignoring this warning.
+
+Have fun.
